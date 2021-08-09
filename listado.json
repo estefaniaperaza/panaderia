@@ -1,6 +1,6 @@
 {
     "nombre": "Productos",
-    "listado": [
+    "lista": [
         {
             "tipo": "Bizcochos",
             "precio": "$400",
