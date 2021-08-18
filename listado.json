@@ -1,6 +1,4 @@
-{
-    "nombre": "Productos",
-    "lista": [
+[
         {
             "tipo": "Bizcochos",
             "precio": "$400",
@@ -32,4 +30,3 @@
           
         }
     ]
-}
